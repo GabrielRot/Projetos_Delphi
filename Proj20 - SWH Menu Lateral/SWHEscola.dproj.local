@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/18 17:44:57.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 11:29:54.000.444,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/11 17:37:05.000.069,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/11 17:44:08.000.888,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Uprincipal.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/11 17:44:08.000.888,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Uprincipal.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/11 17:44:19.000.040,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\SWHEscola.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/14 16:29:55.000.311,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Unit1.pas</Transaction>
+    <Transaction>2022/11/14 16:52:11.000.452,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Ucadcli.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Unit1.pas</Transaction>
+    <Transaction>2022/11/14 16:52:11.000.452,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Ucadcli.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj20 - SWH Menu Lateral\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

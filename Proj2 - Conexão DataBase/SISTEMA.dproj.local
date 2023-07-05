@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/22 09:48:02.000.452,=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/09/22 09:48:13.000.104,=D:\admin\Documents\Unit2.pas</Transaction>
+    <Transaction>2022/09/22 09:49:27.000.545,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UMenu.pas=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/09/22 09:49:27.000.545,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UMenu.dfm=D:\admin\Documents\Unit1.dfm</Transaction>
+    <Transaction>2022/09/22 09:49:39.000.460,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UDmSistema.dfm=D:\admin\Documents\Unit2.dfm</Transaction>
+    <Transaction>2022/09/22 09:49:39.000.460,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UDmSistema.pas=D:\admin\Documents\Unit2.pas</Transaction>
+    <Transaction>2022/09/22 09:49:46.000.318,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\SISTEMA.dproj=D:\admin\Documents\Project1.dproj</Transaction>
+    <Transaction>2022/09/22 13:57:14.000.356,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/22 13:57:48.000.767,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UcadClientes.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+    <Transaction>2022/09/22 13:57:48.000.767,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UcadClientes.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 13:52:14.000.707,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 14:20:07.000.153,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UpesquisaClientes.pas</Transaction>
+    <Transaction>2022/09/26 14:20:07.000.153,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UpesquisaClientes.dfm</Transaction>
+    <Transaction>2022/09/27 13:53:16.000.057,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 13:53:56.000.145,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UrelClientes.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 13:53:56.000.145,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UrelClientes.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 10:52:13.000.316,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 10:52:32.000.433,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UcadProdutos.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 10:52:32.000.433,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UcadProdutos.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 17:23:28.000.309,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 17:31:23.000.358,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UrelProdutos.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 17:31:23.000.357,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UrelProdutos.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 17:32:12.000.952,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit2.pas</Transaction>
+    <Transaction>2022/09/30 17:32:32.000.606,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UpesqProdutos.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit2.pas</Transaction>
+    <Transaction>2022/09/30 17:32:32.000.606,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UpesqProdutos.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit2.dfm</Transaction>
+    <Transaction>2022/10/03 08:53:43.000.364,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit2.pas</Transaction>
+    <Transaction>2022/10/03 17:31:16.000.239,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 17:31:48.000.463,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UDMVendas.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+    <Transaction>2022/10/03 17:31:48.000.463,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UDMVendas.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 11:43:33.000.721,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 11:43:43.000.289,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UVendas.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 11:43:43.000.289,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\UVendas.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj2 - Conexão DataBase\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

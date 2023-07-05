@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/21 16:34:44.000.436,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/21 16:35:02.000.066,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/12 15:17:42.000.023,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/13 14:41:51.000.566,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/13 14:43:38.000.277,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/09/13 14:43:38.000.277,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/09/13 14:44:32.000.776,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\SistemaERP_Beta.dproj</Transaction>
+    <Transaction>2022/09/13 15:34:55.000.205,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 15:35:35.000.804,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.dfm=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitCadForn.dfm</Transaction>
+    <Transaction>2022/09/13 15:35:35.000.804,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.pas=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitCadForn.pas</Transaction>
+    <Transaction>2022/09/13 15:35:50.000.835,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit3.pas</Transaction>
+    <Transaction>2022/09/13 15:36:08.000.649,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit3.dfm=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitCadAgend.dfm</Transaction>
+    <Transaction>2022/09/13 15:36:08.000.649,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit3.pas=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitCadAgend.pas</Transaction>
+    <Transaction>2022/09/13 16:12:05.000.162,=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 17:07:13.000.765,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.dfm=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitDM.dfm</Transaction>
+    <Transaction>2022/09/13 17:07:13.000.765,C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\Unit1.pas=C:\Users\Treinamento2\Documents\Embarcadero\Studio\Projects\Proj4 - Sitema E.R.P(Beta)\UnitDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

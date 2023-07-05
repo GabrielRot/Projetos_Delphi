@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/18 17:44:57.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 11:29:54.000.444,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 14:40:27.000.131,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 14:50:13.000.330,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/07 14:51:23.000.132,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj15 - Animate Window Teste\Fontes\Uprincipal.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/07 14:51:23.000.132,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj15 - Animate Window Teste\Fontes\Uprincipal.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 14:51:30.000.288,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj15 - Animate Window Teste\Fontes\Usecundario.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/07 14:51:30.000.288,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj15 - Animate Window Teste\Fontes\Usecundario.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/11/07 14:51:39.000.232,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj15 - Animate Window Teste\Fontes\Animacao.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

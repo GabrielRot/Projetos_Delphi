@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/20 15:40:12.000.975,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 15:44:41.000.964,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\UMain.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 15:44:41.000.964,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\UMain.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/20 15:45:13.000.115,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\CDG_ERP.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/20 16:42:17.000.961,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 16:44:34.000.959,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Financeiro\UCadPag.dfm</Transaction>
+    <Transaction>2022/12/20 16:44:34.000.959,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Financeiro\UCadPag.pas</Transaction>
+    <Transaction>2023/01/01 00:20:12.000.387,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/01/01 00:23:22.000.969,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Conexão\UDMConnxPai.dfm</Transaction>
+    <Transaction>2023/01/01 00:23:22.000.969,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Conexão\UDMConnxPai.pas</Transaction>
+    <Transaction>2023/01/30 17:04:23.000.171,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 17:04:49.000.239,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Financeiro\UValidPag.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 17:04:49.000.239,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Financeiro\UValidPag.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.dfm</Transaction>
+    <Transaction>2023/03/14 00:52:54.000.283,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 00:53:29.000.417,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Units\UProcs.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 15:05:27.000.785,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 15:06:22.000.223,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Base\UCriaMensagem.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 15:06:22.000.223,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Views\Base\UCriaMensagem.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj23 - Controle de Gasto\Sources\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

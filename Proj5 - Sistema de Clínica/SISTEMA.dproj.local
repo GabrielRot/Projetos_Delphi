@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 23:35:10.000.535,=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 23:36:16.000.049,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UmenuPrincipal.dfm=D:\admin\Documents\Unit1.dfm</Transaction>
+    <Transaction>2022/09/26 23:36:16.000.049,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UmenuPrincipal.pas=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 23:36:39.000.730,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\SISTEMA.dproj=D:\admin\Documents\Project1.dproj</Transaction>
+    <Transaction>2022/09/27 00:15:35.000.319,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 00:16:33.000.607,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UcadPacientes.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.dfm</Transaction>
+    <Transaction>2022/09/27 00:16:33.000.607,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UcadPacientes.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 00:16:37.000.997,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 00:17:00.000.439,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UcadAgendamentos.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 00:17:00.000.439,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UcadAgendamentos.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit2.dfm</Transaction>
+    <Transaction>2022/09/28 00:32:58.000.163,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas</Transaction>
+    <Transaction>2022/09/28 00:34:32.000.347,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UDmSistema.pas</Transaction>
+    <Transaction>2022/09/28 00:34:32.000.347,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UDmSistema.dfm</Transaction>
+    <Transaction>2022/10/09 19:32:34.000.562,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas</Transaction>
+    <Transaction>2022/10/09 19:33:00.000.002,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UpesqPacientes.dfm</Transaction>
+    <Transaction>2022/10/09 19:33:00.000.002,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj5 - Sistema de Clínica\UpesqPacientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>

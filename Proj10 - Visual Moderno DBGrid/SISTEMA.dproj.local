@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/18 17:44:57.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 11:29:54.000.444,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/28 16:20:42.000.245,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/28 16:21:24.000.599,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\Uprincipal.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/28 16:21:24.000.599,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\Uprincipal.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/28 16:21:36.000.168,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\SISTEMA.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/28 16:23:39.000.223,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\Unit1.pas</Transaction>
+    <Transaction>2022/10/28 16:24:00.000.681,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\UdmSistema.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\Unit1.dfm</Transaction>
+    <Transaction>2022/10/28 16:24:00.000.681,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\UdmSistema.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj10 - Visual Moderno DBGrid\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

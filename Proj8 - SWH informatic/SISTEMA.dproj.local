@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/18 17:44:57.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 10:04:57.000.753,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 10:05:59.000.517,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uprincipal.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 10:05:59.000.517,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uprincipal.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/20 10:06:10.000.058,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\SISTEMA.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/20 10:06:16.000.313,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit2.pas</Transaction>
+    <Transaction>2022/10/20 11:00:52.000.400,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Ulogin.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit2.pas</Transaction>
+    <Transaction>2022/10/20 11:00:52.000.400,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Ulogin.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit2.dfm</Transaction>
+    <Transaction>2022/10/20 13:53:13.000.707,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 15:45:52.000.094,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\UdmSistema.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 15:45:52.000.094,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\UdmSistema.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.dfm</Transaction>
+    <Transaction>2022/10/20 16:04:46.000.884,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 16:07:30.000.802,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Fontes\UconfigServ.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 16:07:30.000.802,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Fontes\UconfigServ.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.dfm</Transaction>
+    <Transaction>2022/10/21 09:26:51.000.699,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/21 10:05:23.000.133,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Umensagens.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/21 10:05:23.000.133,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Umensagens.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.dfm</Transaction>
+    <Transaction>2022/10/21 10:38:49.000.634,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/21 10:39:14.000.058,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Ufuncoes.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/21 14:36:33.000.371,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/21 14:37:09.000.191,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\UclasseConexao.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 15:30:22.000.093,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 10:14:13.000.406,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 15:19:42.000.003,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uagendamento.pas</Transaction>
+    <Transaction>2022/10/27 15:19:42.000.003,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uagendamento.dfm</Transaction>
+    <Transaction>2022/10/27 16:12:22.000.101,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 16:24:28.000.608,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uprofissionais.pas</Transaction>
+    <Transaction>2022/10/27 16:24:28.000.608,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Uprofissionais.dfm</Transaction>
+    <Transaction>2022/10/27 16:35:00.000.080,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 16:35:23.000.557,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj8 - SWH informatic\UclasseProfissionais.pas</Transaction>
+  </Transactions>
+</BorlandProject>

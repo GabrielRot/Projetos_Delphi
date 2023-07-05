@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/23 06:57:35.000.631,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 15:32:11.000.554,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 15:33:30.000.356,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Umain.dfm</Transaction>
+    <Transaction>2022/11/29 15:33:30.000.356,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Umain.pas</Transaction>
+    <Transaction>2022/11/29 15:33:41.000.278,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\DelphiToHero.dproj</Transaction>
+    <Transaction>2022/11/29 16:17:23.000.782,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:18:32.000.585,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:18:57.000.772,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Styles\StylesColor.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:38:17.000.918,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:38:51.000.172,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uprincipal.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.dfm</Transaction>
+    <Transaction>2022/11/29 16:38:51.000.172,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uprincipal.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:42:22.000.682,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:42:46.000.726,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uusuarios.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 16:42:46.000.726,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uusuarios.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.dfm</Transaction>
+    <Transaction>2022/11/30 09:36:10.000.013,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 09:37:11.000.489,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Routers\Routers\URouters.pas</Transaction>
+    <Transaction>2022/11/30 09:37:11.000.489,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Routers\Routers\URouters.dfm</Transaction>
+    <Transaction>2022/11/30 09:38:00.000.039,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 09:38:16.000.382,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Routers\Routers.pas</Transaction>
+    <Transaction>2022/11/30 10:14:05.000.283,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 10:54:22.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 10:54:38.000.209,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Usuarios.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.dfm</Transaction>
+    <Transaction>2022/11/30 10:54:38.000.209,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Usuarios.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 10:56:55.000.466,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 14:59:49.000.322,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 15:09:39.000.647,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.pas</Transaction>
+    <Transaction>2022/11/30 15:09:39.000.647,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.dfm</Transaction>
+    <Transaction>2022/11/30 16:01:24.000.305,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit2.pas</Transaction>
+    <Transaction>2022/11/30 16:01:59.000.598,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit2.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UTemplate.dfm</Transaction>
+    <Transaction>2022/11/30 16:01:59.000.598,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit2.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UTemplate.pas</Transaction>
+    <Transaction>2022/11/30 16:53:43.000.937,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 16:55:04.000.483,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\PagUsuarios.dfm</Transaction>
+    <Transaction>2022/11/30 16:55:04.000.483,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\PagUsuarios.pas</Transaction>
+    <Transaction>2022/11/30 16:55:07.000.923,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\PagUsuarios.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.pas</Transaction>
+    <Transaction>2022/11/30 16:55:07.000.923,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\PagUsuarios.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.dfm</Transaction>
+    <Transaction>2022/11/30 17:13:13.000.288,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uprincipal.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\DelphiToHero.View.Pages.Principal.pas</Transaction>
+    <Transaction>2022/11/30 17:13:13.000.288,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Uprincipal.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\DelphiToHero.View.Pages.Principal.dfm</Transaction>
+    <Transaction>2022/11/30 17:15:19.000.419,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UTemplate.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\DelphiToHero.View.Pages.Template.pas</Transaction>
+    <Transaction>2022/11/30 17:15:19.000.419,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UTemplate.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\DelphiToHero.View.Pages.Template.dfm</Transaction>
+    <Transaction>2022/11/30 17:15:43.000.426,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Usuarios.dfm</Transaction>
+    <Transaction>2022/11/30 17:15:43.000.426,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\UPagUsuarios.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Usuarios.pas</Transaction>
+    <Transaction>2022/11/30 17:27:16.000.020,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj22 - Delphi to Hero\Source\View\Pages\Usuarios.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="View"/>
+    <File Path="View\Pages"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Principal.pas"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Principal.dfm"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Template.pas"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Template.dfm"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Usuarios.pas"/>
+    <File Path="View\Pages\DelphiToHero.View.Pages.Usuarios.dfm"/>
+    <File Path="View\Routers"/>
+    <File Path="View\Routers\DelphiToHero.View.Routers.pas"/>
+    <File Path="View\Styles"/>
+    <File Path="View\Styles\StylesColor.pas"/>
+    <File Path="View\Umain.pas"/>
+    <File Path="View\Umain.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

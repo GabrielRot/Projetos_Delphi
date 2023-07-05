@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/18 17:44:57.000.663,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 11:29:54.000.444,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 16:10:57.000.727,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 16:25:36.000.136,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Uconversor.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 16:25:36.000.136,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Uconversor.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/31 16:25:43.000.505,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\ProjetoConversor.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/07 10:17:25.000.606,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 10:17:44.000.889,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Unit1.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Usobre.pas</Transaction>
+    <Transaction>2022/11/07 10:17:44.000.889,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Unit1.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj11 - Conversor de Imagens\Usobre.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

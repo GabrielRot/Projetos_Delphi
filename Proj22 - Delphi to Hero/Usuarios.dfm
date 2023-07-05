@@ -1,0 +1,46 @@
+object FrmPagUsuarios: TFrmPagUsuarios
+  Left = 0
+  Top = 0
+  Align = alClient
+  BorderStyle = bsNone
+  ClientHeight = 489
+  ClientWidth = 750
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 750
+    Height = 489
+    Align = alClient
+    BevelOuter = bvNone
+    Padding.Top = 35
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitLeft = -305
+    ExplicitTop = -288
+    object Label1: TLabel
+      Left = 0
+      Top = 35
+      Width = 750
+      Height = 35
+      Align = alTop
+      Alignment = taCenter
+      Caption = 'Usu'#225'rios'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -29
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      ExplicitWidth = 109
+    end
+  end
+end

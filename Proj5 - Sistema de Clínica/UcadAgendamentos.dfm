@@ -1,0 +1,254 @@
+object FCadAgnd: TFCadAgnd
+  Left = 0
+  Top = 0
+  Caption = 'Cadastro de Agendamentos'
+  ClientHeight = 254
+  ClientWidth = 298
+  Color = clWhite
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Position = poScreenCenter
+  Visible = True
+  OnClose = FormClose
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 4
+    Top = 56
+    Width = 47
+    Height = 14
+    Caption = 'C'#243'digo:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 4
+    Top = 81
+    Width = 56
+    Height = 14
+    Caption = 'Paciente:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 4
+    Top = 131
+    Width = 84
+    Height = 14
+    Caption = 'Especialidade:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 4
+    Top = 106
+    Width = 47
+    Height = 14
+    Caption = 'M'#233'dico:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 4
+    Top = 155
+    Width = 143
+    Height = 14
+    Caption = 'Data de Agendamento:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 4
+    Top = 179
+    Width = 159
+    Height = 14
+    Caption = 'Hor'#225'rio de Agendamento:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object DateTimePicker1: TDateTimePicker
+    Left = 147
+    Top = 152
+    Width = 130
+    Height = 21
+    Date = 44852.023326388890000000
+    Time = 44852.023326388890000000
+    TabOrder = 0
+  end
+  object BitBtn1: TBitBtn
+    Left = 8
+    Top = 16
+    Width = 47
+    Height = 25
+    Caption = 'Novo'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+    OnClick = BitBtn1Click
+  end
+  object BitBtn2: TBitBtn
+    Left = 61
+    Top = 16
+    Width = 54
+    Height = 25
+    Caption = 'Excluir'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+    OnClick = BitBtn2Click
+  end
+  object BitBtn3: TBitBtn
+    Left = 193
+    Top = 16
+    Width = 84
+    Height = 25
+    Caption = 'Cancelar'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 3
+    OnClick = BitBtn3Click
+  end
+  object BitBtn4: TBitBtn
+    Left = 121
+    Top = 16
+    Width = 66
+    Height = 25
+    Caption = 'Salvar'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 4
+    OnClick = BitBtn4Click
+  end
+  object BitBtn5: TBitBtn
+    Left = 189
+    Top = 47
+    Width = 88
+    Height = 25
+    Caption = 'Pesquisar'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 5
+  end
+  object BitBtn6: TBitBtn
+    Left = 198
+    Top = 214
+    Width = 79
+    Height = 25
+    Caption = 'Sair'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 6
+    OnClick = BitBtn6Click
+  end
+  object EdtHora: TDBEdit
+    Left = 164
+    Top = 179
+    Width = 113
+    Height = 21
+    DataField = 'HORA_AGENDAMENTO'
+    DataSource = DataSource1
+    MaxLength = 5
+    TabOrder = 7
+  end
+  object DBEdit1: TDBEdit
+    Left = 53
+    Top = 54
+    Width = 44
+    Height = 21
+    DataField = 'COD_AGENDAMENTO'
+    DataSource = DMSistema.DsCadAgend
+    Enabled = False
+    TabOrder = 8
+  end
+  object DBEdit3: TDBEdit
+    Left = 53
+    Top = 104
+    Width = 224
+    Height = 21
+    DataField = 'MEDICO_AGENDAMTO'
+    DataSource = DataSource1
+    TabOrder = 9
+  end
+  object ComboBox1: TComboBox
+    Left = 94
+    Top = 128
+    Width = 185
+    Height = 21
+    TabOrder = 10
+    Text = 'ComboBox1'
+    Items.Strings = (
+      'Cardilogista')
+  end
+  object JvDBComboBox1: TJvDBComboBox
+    Left = 61
+    Top = 78
+    Width = 216
+    Height = 21
+    TabOrder = 11
+    ListSettings.OutfilteredValueFont.Charset = DEFAULT_CHARSET
+    ListSettings.OutfilteredValueFont.Color = clRed
+    ListSettings.OutfilteredValueFont.Height = -11
+    ListSettings.OutfilteredValueFont.Name = 'Tahoma'
+    ListSettings.OutfilteredValueFont.Style = []
+    ListSettings.DisplayField = 'NOME_PACIENTE'
+    ListSettings.DataSource = DMSistema.DsCadPct
+  end
+  object DataSource1: TDataSource
+    DataSet = DMSistema.CdsCadAgend
+    Left = 144
+    Top = 208
+  end
+end

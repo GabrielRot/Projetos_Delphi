@@ -1,0 +1,132 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'FrmPrincipal'
+  ClientHeight = 501
+  ClientWidth = 862
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnCreate = FormCreate
+  OnResize = FormResize
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PnlMain: TPanel
+    Left = 0
+    Top = 0
+    Width = 862
+    Height = 501
+    Align = alClient
+    BevelOuter = bvNone
+    ParentBackground = False
+    TabOrder = 0
+    object PnlMenu: TPanel
+      Left = 0
+      Top = 0
+      Width = 161
+      Height = 501
+      Align = alLeft
+      BevelOuter = bvNone
+      Color = clSilver
+      ParentBackground = False
+      TabOrder = 0
+      object JvSpeedButton1: TJvSpeedButton
+        Left = 0
+        Top = 89
+        Width = 161
+        Height = 48
+        Align = alTop
+        Caption = 'PRINCIPAL'
+        Flat = True
+        OnClick = JvSpeedButton1Click
+        ExplicitLeft = -6
+        ExplicitTop = 47
+      end
+      object JvSpeedButton2: TJvSpeedButton
+        Left = 0
+        Top = 41
+        Width = 161
+        Height = 48
+        Align = alTop
+        Caption = 'USU'#193'RIOS'
+        Flat = True
+        OnClick = JvSpeedButton2Click
+        ExplicitTop = 49
+      end
+      object PnlLogo: TPanel
+        Left = 0
+        Top = 0
+        Width = 161
+        Height = 41
+        Align = alTop
+        BevelOuter = bvNone
+        Color = 15658734
+        ParentBackground = False
+        TabOrder = 0
+        object Label1: TLabel
+          Left = 32
+          Top = 0
+          Width = 40
+          Height = 17
+          Caption = 'Label1'
+          Font.Charset = DEFAULT_CHARSET
+          Font.Color = clWhite
+          Font.Height = -13
+          Font.Name = 'Segoe UI'
+          Font.Style = [fsBold]
+          ParentFont = False
+        end
+        object Label2: TLabel
+          Left = 32
+          Top = 24
+          Width = 42
+          Height = 16
+          Caption = 'Label2'
+          Font.Charset = DEFAULT_CHARSET
+          Font.Color = clWhite
+          Font.Height = -13
+          Font.Name = 'Tahoma'
+          Font.Style = [fsBold]
+          ParentFont = False
+        end
+      end
+    end
+    object PnlHome: TPanel
+      Left = 161
+      Top = 0
+      Width = 701
+      Height = 501
+      Align = alClient
+      BevelOuter = bvNone
+      ParentBackground = False
+      TabOrder = 1
+      object PnlTop: TPanel
+        Left = 0
+        Top = 0
+        Width = 701
+        Height = 41
+        Align = alTop
+        BevelOuter = bvNone
+        Color = clGray
+        ParentBackground = False
+        TabOrder = 0
+      end
+      object PnlPrincipal: TPanel
+        Left = 0
+        Top = 41
+        Width = 701
+        Height = 460
+        Align = alClient
+        BevelOuter = bvNone
+        Color = clWhite
+        ParentBackground = False
+        TabOrder = 1
+      end
+    end
+  end
+end

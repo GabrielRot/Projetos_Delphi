@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/29 10:07:41.000.294,=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/09/29 10:08:43.000.252,=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 11:55:13.000.937,=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 11:56:56.000.045,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UcadClientes.pas=D:\admin\Documents\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 11:56:56.000.045,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UcadClientes.dfm=D:\admin\Documents\Unit1.dfm</Transaction>
+    <Transaction>2022/10/10 11:57:23.000.681,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\SISTEMA.dproj=D:\admin\Documents\Project1.dproj</Transaction>
+    <Transaction>2022/10/10 11:57:46.000.521,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 11:58:04.000.102,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UDmSistema.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/10/10 11:58:04.000.102,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UDmSistema.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 14:27:29.000.006,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/10/10 14:27:41.000.234,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UrelClientes.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/10/10 14:27:41.000.234,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\UrelClientes.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Proj6 - Avaliação Delphi\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
